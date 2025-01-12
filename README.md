@@ -1,1 +1,1 @@
-# SQAT-Test-Plan-Project_Team-Happify-Summer-22-23
+# SQAT-Test-Plan-Project (Easy Health )-Summer-22-23
